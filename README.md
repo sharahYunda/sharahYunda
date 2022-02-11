@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan Nama Saya Sharah Dini Yundari
+Perkenalkan Nama Saya Sharah Dini Yundari  
 saat ini saya tengah belajar mengenai multi-platform dan back-end
